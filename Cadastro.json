@@ -1,12 +1,3 @@
 {
-	"task": [
-		{},
-		{
-			"Nome": "Alesio Da Silva",
-			"Endereço": "Av. Expedicionario Oswaldo De Almeida Ramos",
-			"Telefone": "24-99209-2783",
-			"Site": "www.cciaweb4-0.com"
-		},
-		{}
-	]
+	"task": []
 }

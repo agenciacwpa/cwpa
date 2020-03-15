@@ -2,6 +2,10 @@
 	"task": [
 		{
 			"done": false,
+			"taskTitle": "Tarefa4"
+		},
+		{
+			"done": false,
 			"taskTitle": "Tarefa1"
 		},
 		{
@@ -11,10 +15,6 @@
 		{
 			"done": false,
 			"taskTitle": "Tarefa3"
-		},
-		{
-			"done": false,
-			"taskTitle": "Tarefa4"
 		}
 	]
 }

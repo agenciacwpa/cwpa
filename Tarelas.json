@@ -13,7 +13,7 @@
 			"taskTitle": "Tarefa3"
 		},
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "Tarefa 4"
 		}
 	]

@@ -1,20 +1,10 @@
 {
 	"task": [
 		{
-			"done": false,
-			"taskTitle": "Tarefa 1"
-		},
-		{
-			"done": false,
-			"taskTitle": "Tarefa2"
-		},
-		{
-			"done": false,
-			"taskTitle": "Tarefa3"
-		},
-		{
-			"done": true,
-			"taskTitle": "Tarefa 4"
+			"Nome": "Meu Nome",
+			"Telefone": "2155555555",
+			"Email": "Ali@ali.com",
+			"Site": "cw4-o.top"
 		}
 	]
 }

@@ -9,6 +9,36 @@
 			"done": false,
 			"taskTitle": "Mavo",
 			"taskdescription": "AplicaçãoWeb"
+		},
+		{
+			"done": true,
+			"taskTitle": "Acount",
+			"taskdescription": "Gerenciador financeiro"
+		},
+		{
+			"done": false,
+			"taskTitle": "Pagekit",
+			"taskdescription": "CMS"
+		},
+		{
+			"done": true,
+			"taskTitle": "Booble",
+			"taskdescription": "Desenvolvedor de app"
+		},
+		{
+			"done": false,
+			"taskTitle": "Web App",
+			"taskdescription": "Desenvolvedor de app"
+		},
+		{
+			"done": false,
+			"taskTitle": "Form Builder",
+			"taskdescription": "Gerador de formulario"
+		},
+		{
+			"done": false,
+			"taskTitle": "Glide app",
+			"taskdescription": "Gera App Apartir de tabelas google"
 		}
 	]
 }
